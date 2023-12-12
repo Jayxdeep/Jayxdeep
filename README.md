@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Jayxdeep/Jayxdeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- For profile views I used an opensource project https://github.com/antonkomarev/github-profile-views-counter -->
+<img src = "https://komarev.com/ghpvc/?username=Jayxdeep&color=orange&style=flat-square" alt ="Profile Views">
 
-Here are some ideas to get you started:
+## About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Just getting started
+## My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jayxdeep&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayxdeep&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
