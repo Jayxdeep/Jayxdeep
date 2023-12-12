@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- For profile views I used an opensource project https://github.com/antonkomarev/github-profile-views-counter -->
 <img src = "https://komarev.com/ghpvc/?username=Jayxdeep&color=orange&style=flat-square" alt ="Profile Views">
 
