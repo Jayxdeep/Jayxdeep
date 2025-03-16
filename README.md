@@ -1,3 +1,4 @@
+<img src = "https://komarev.com/ghpvc/?username=saqib40&color=orange&style=flat-square" alt ="Profile Views">
 # 💫 About Me:
 Trying to figure things out.
 
