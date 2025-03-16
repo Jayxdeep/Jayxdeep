@@ -4,8 +4,6 @@
 Trying to figure things out.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaydeep-mukherjee/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Jaydeep-Mukherjee-the-reactor) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jayxdeep&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Jayxdeep&theme=dark&hide_border=false)<br/>
